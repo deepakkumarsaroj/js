@@ -1,4 +1,5 @@
                             /*javascript Notes  */
+                           // This is my notes 
 
   /* Javascript => Javascript is a programming language which is used to interact with the websites and applied to an HTML document. 
   Introduced in 1995 for adding programs to the webpages in Netscape Navigator browser.
